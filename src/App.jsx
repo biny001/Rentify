@@ -1,4 +1,4 @@
-import "./dist/styles.css";
+import "./styles.css";
 import Navbar from "./components/Navbar";
 import Home from "./Pages/Home";
 import Signup from "./components/Signup";
