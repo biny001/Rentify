@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useUserRegisterMutation } from "./../features/api/apiSlice";
 import { useNavigate } from 'react-router-dom';
-import "../dist/styles.css";
+import "../styles.css";
 import Hero from "./Hero";
 
 const Signup = () => {
